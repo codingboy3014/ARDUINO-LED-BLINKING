@@ -1,0 +1,11 @@
+Components Needed
+Arduino Uno
+LED
+Resistor (220 ohms)
+Jumper wires
+Breadboard (optional)
+
+Wiring
+Connect the positive (longer) leg of the LED to pin 13 on the Arduino.
+Connect the negative (shorter) leg of the LED to one end of a 220-ohm resistor.
+Connect the other end of the resistor to GND on the Arduino.
